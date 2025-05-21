@@ -1,0 +1,2 @@
+openai==0.28.0 # Using an older version of openai that still supports ChatCompletion API format
+python-dotenv # For loading the OpenAI API key from a .env file
